@@ -6,7 +6,7 @@ package com.yuwenzhi.bean
  * @date 2020/11/4 18:54
  * @version 1.0
  */
-case class StartUpLog(mid:String, //设备id
+case class StartUpLog(mid:String, //设备idffff
                       uid:String,
                       appid:String,
                       area:String,
